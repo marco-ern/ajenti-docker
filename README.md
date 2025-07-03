@@ -5,7 +5,7 @@ Download this repository and run in docker commands
 
 Docker compose -up 
 
-Please read the official documentation for any problem with the software.
+Please read the official documentation for any problem with this software.
 
 https://docs.ajenti.org/en/latest/ 
 
